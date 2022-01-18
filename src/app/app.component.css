@@ -1,0 +1,21 @@
+.main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.btn-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn-add {
+    margin-left: 10px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}

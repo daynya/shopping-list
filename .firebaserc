@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "shopping-list-fa8fb": {
+      "hosting": {
+        "shopping-list": [
+          "shopping-list-fa8fb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "shopping-list-fa8fb"
+  }
+}

@@ -98,6 +98,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "shopping-list:build:production",
+            "firebaseProject": "shopping-list-fa8fb",
+            "firebaseHostingSite": "shopping-list-fa8fb"
+          }
         }
       }
     }

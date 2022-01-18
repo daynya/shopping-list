@@ -1,0 +1,14 @@
+.item {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.checkbox {
+    margin-right: 5px;
+}
+
+.btn-delete {
+    margin-left: 20px;
+}
